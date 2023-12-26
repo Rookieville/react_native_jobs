@@ -66,10 +66,10 @@ const JobSearch = () => {
                     headerStyle: { backgroundColor: COLORS.lightWhite },
                     headerShadowVisible: false,
                     headerLeft: () => (
-                        <ScreenHeaderBtn
+                        <ScreenHeaderBtn 
                             iconUrl={icons.left}
                             dimension='60%'
-                            handlePress={() => router.back()}
+                            handelPress={() => router.back()}
                         />
                     ),
                     headerTitle: "",
