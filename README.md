@@ -1,5 +1,5 @@
 # React Native Application
 
-Simple Job Search applicationusing react native and the api
+Simple Job Search application using react native and the jsearch API
 
 
